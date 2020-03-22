@@ -1,0 +1,10 @@
+div {
+    background-color: #e53935;
+    color: white;
+    padding: 10px;
+  }
+  
+  div>a {
+    color: white;
+  }
+  
